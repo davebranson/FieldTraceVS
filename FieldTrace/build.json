@@ -1,0 +1,11 @@
+{
+     "android": {
+      "release": {
+        "keystore": "d:\\certs\\fieldtrace-release-key.jks",
+        "storePassword": "s0lutions",
+        "alias": "Dave Branson 1",
+        "password": "s0lutions",
+        "keystoreType": "jks"
+      }
+     }
+ }
